@@ -1,13 +1,15 @@
 Package: mxgmodels
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
+Title: Components from different miscanthus models
+Version: 0.0.0.9000
+Authors@R: 
+    person("Bryan", "Petersen", email = "bryan20@iastate.edu", role = c("aut", "cre"))
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: 
+    Package for testing and comparing different components from different miscanthus models.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/bpetersen18/mxgmodels
 BugReports: https://github.com/bpetersen18/mxgmodels/issues
+RoxygenNote: 7.3.1
